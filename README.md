@@ -1,3 +1,12 @@
+# Testing compose :
+1. NavigationRail
+2. BottomNavigation
+3. Potrait Layout
+4. Landscape Layout
+5. ScrollVerticall
+6. Component composable management
+7. Using Lazy and Grid 
+
 # Basic Layouts in Compose Codelab
 
 This folder contains the source code for
